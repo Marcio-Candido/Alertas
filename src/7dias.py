@@ -31,11 +31,11 @@ data_fim_consulta = (hoje + datetime.timedelta(days=1)).strftime('%d-%m-%Y')
 data_inicio_consulta = (hoje - datetime.timedelta(days=7)).strftime('%d-%m-%Y') 
 
 # Definição do nome do arquivo de lista e leitura
-nome_do_arquivo = 'lista.txt'
+nome_do_arquivo = 'input/lista.txt'
 
 
 # cotas de referencia
-nome_arquivo_referencia = 'cotas_referencia.txt'
+nome_arquivo_referencia = 'input/cotas_referencia.txt'
 cotas_ref = pd.DataFrame() # Inicializa como DataFrame vazio
 
 try:
@@ -64,11 +64,6 @@ except FileNotFoundError:
 if not lista_estacoes:
     logger.error("ERRO: A lista de estações está vazia após a leitura do arquivo.")
     exit()
-
-# Cria o diretório para salvar os gráficos se ele não existir
-diretorio_graficos = 'Graficos_Saida'
-os.makedirs(diretorio_graficos, exist_ok=True)
-
 
 # LOOP PRINCIPAL DE PROCESSAMENTO
 
@@ -159,7 +154,7 @@ for codigo in lista_estacoes:
                 verticalalignment='top', horizontalalignment='left', bbox=props)
                 
         # Salvando o gráfico 
-        nome_arquivo_grafico = os.path.join(diretorio_graficos, f'{codigo}.png')
+        nome_arquivo_grafico = f'graficos/{codigo}.png'
 
         plt.tight_layout(rect=[0, 0.02, 1, 1])
         plt.savefig(nome_arquivo_grafico)
