@@ -3,7 +3,7 @@ run-name: Gerar gráficos de monitoramento
 
 on:
   schedule:
-    - cron: '0 15 * * *'  # Executa todos os dias às 15:00 UTC
+    - cron: '0 * * * *'  # Executa todos os dias às 15:00 UTC
   workflow_dispatch:  # Permite execução manual
 
 jobs:
