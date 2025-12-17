@@ -1,0 +1,38 @@
+name: API-Alertas
+run-name: Gerar gráficos de monitoramento
+
+on:
+  schedule:
+    - cron: '0 15 * * *'  # Executa todos os dias às 15:00 UTC
+  workflow_dispatch:  # Permite execução manual
+
+jobs:
+  run_script:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12.x'
+
+      - name: Instalar dependências
+        run: |
+          pip install requests pandas io time datetime matplotlib os logging
+       
+      - name: Executar script
+        run: python src/7dias.py
+      
+      - name: Verificar status do Git
+        run: git status
+
+      - name: Commit e push dos gráficos gerados
+        run: |
+          git config user.name "Marcio-Candido"
+          git config user.email "moc.candido@gmail.com"
+          git add graficos/
+          git commit -m "Atualização" || echo "Nenhuma alteração para commit"
+          git push
