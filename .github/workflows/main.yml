@@ -21,7 +21,7 @@ jobs:
 
       - name: Instalar dependências
         run: |
-          pip install requests pandas io time datetime matplotlib os logging
+          pip install requests pandas matplotlib
        
       - name: Executar script
         run: python src/7dias.py
