@@ -33,7 +33,7 @@ jobs:
         run: |
           git config user.name "Marcio-Candido"
           git config user.email "moc.candido@gmail.com"
-          git add 
+          git add log_execucao_cotas.txt
           git add graficos/
           git commit -m "Atualização" || echo "Nenhuma alteração para commit"
           git push
