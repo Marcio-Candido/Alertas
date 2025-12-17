@@ -21,7 +21,7 @@ jobs:
 
       - name: Instalar dependências
         run: |
-          pip install requests pandas matplotlib
+          pip install requests pandas matplotlib lxml
        
       - name: Executar script
         run: python src/7dias.py
