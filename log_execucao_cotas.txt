@@ -279,3 +279,25 @@
 2025-12-28 19:23:19 - ERROR - Estação 24700000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: Start tag expected, '<' not found, line 1, column 1 (<string>, line 1)
 2025-12-28 19:23:51 - ERROR - Estação 24850000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: Start tag expected, '<' not found, line 1, column 1 (<string>, line 1)
 2025-12-29 04:16:22 - ERROR - Estação 24700000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: Start tag expected, '<' not found, line 1, column 1 (<string>, line 1)
+2025-12-29 08:42:18 - ERROR - Estação 24700000: Erro ao consultar inventário da ANA. Detalhe: Start tag expected, '<' not found, line 1, column 1 (<string>, line 1)
+2025-12-29 08:42:20 - ERROR - Estação 24700000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: name 'nome' is not defined
+2025-12-29 08:42:21 - ERROR - Estação 24850000: Erro ao consultar inventário da ANA. Detalhe: Start tag expected, '<' not found, line 1, column 1 (<string>, line 1)
+2025-12-29 08:42:22 - ERROR - Estação 24850000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: name 'nome' is not defined
+2025-12-29 08:42:33 - ERROR - Estação 25200000: Erro ao consultar inventário da ANA. Detalhe: Start tag expected, '<' not found, line 1, column 1 (<string>, line 1)
+2025-12-29 08:42:35 - ERROR - Estação 25200000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: name 'nome' is not defined
+2025-12-29 08:42:46 - ERROR - Estação 25700000: Erro ao consultar inventário da ANA. Detalhe: Start tag expected, '<' not found, line 1, column 1 (<string>, line 1)
+2025-12-29 08:42:47 - ERROR - Estação 25700000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: name 'nome' is not defined
+2025-12-29 08:42:48 - ERROR - Estação 26350000: Erro ao consultar inventário da ANA. Detalhe: Start tag expected, '<' not found, line 1, column 1 (<string>, line 1)
+2025-12-29 08:42:50 - ERROR - Estação 26350000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: name 'nome' is not defined
+2025-12-29 08:42:51 - ERROR - Estação 27320000: Erro ao consultar inventário da ANA. Detalhe: Start tag expected, '<' not found, line 1, column 1 (<string>, line 1)
+2025-12-29 08:42:52 - ERROR - Estação 27320000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: name 'nome' is not defined
+2025-12-29 08:43:03 - ERROR - Estação 27500000: Erro ao consultar inventário da ANA. Detalhe: Start tag expected, '<' not found, line 1, column 1 (<string>, line 1)
+2025-12-29 08:43:05 - ERROR - Estação 27500000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: name 'nome' is not defined
+2025-12-29 08:43:16 - ERROR - Estação 28300000: Erro ao consultar inventário da ANA. Detalhe: Start tag expected, '<' not found, line 1, column 1 (<string>, line 1)
+2025-12-29 08:43:17 - ERROR - Estação 28300000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: name 'nome' is not defined
+2025-12-29 08:43:18 - ERROR - Estação 23700000: Erro ao consultar inventário da ANA. Detalhe: Start tag expected, '<' not found, line 1, column 1 (<string>, line 1)
+2025-12-29 08:43:20 - ERROR - Estação 23700000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: name 'nome' is not defined
+2025-12-29 08:43:31 - ERROR - Estação 29050000: Erro ao consultar inventário da ANA. Detalhe: Start tag expected, '<' not found, line 1, column 1 (<string>, line 1)
+2025-12-29 08:43:32 - ERROR - Estação 29050000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: name 'nome' is not defined
+2025-12-29 08:43:43 - ERROR - Estação 29200000: Erro ao consultar inventário da ANA. Detalhe: Start tag expected, '<' not found, line 1, column 1 (<string>, line 1)
+2025-12-29 08:43:45 - ERROR - Estação 29200000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: name 'nome' is not defined
