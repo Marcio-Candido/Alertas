@@ -561,3 +561,4 @@
 2026-01-07 13:03:53 - ERROR - Estação 24700000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: Start tag expected, '<' not found, line 1, column 1 (<string>, line 1)
 2026-01-07 13:04:25 - WARNING - Estação 27500000: Nenhum dado válido de cota encontrado após limpeza.
 2026-01-07 14:34:28 - WARNING - Estação 27500000: Nenhum dado válido de cota encontrado após limpeza.
+2026-01-07 15:35:26 - WARNING - Estação 27500000: Nenhum dado válido de cota encontrado após limpeza.
