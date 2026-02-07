@@ -1645,3 +1645,4 @@
 2026-02-07 09:40:51 - ERROR - Estação 24850000: Erro ao consultar inventário da ANA. Detalhe: HTTPSConnectionPool(host='telemetriaws1.ana.gov.br', port=443): Read timed out. (read timeout=30)
 2026-02-07 09:41:30 - WARNING - Estação 27500000: Nenhum dado válido de cota encontrado após limpeza.
 2026-02-07 10:37:26 - WARNING - Estação 27500000: Nenhum dado válido de cota encontrado após limpeza.
+2026-02-07 11:30:17 - WARNING - Estação 27500000: Nenhum dado válido de cota encontrado após limpeza.
