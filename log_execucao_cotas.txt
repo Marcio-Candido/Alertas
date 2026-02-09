@@ -1688,3 +1688,4 @@
 2026-02-09 19:28:24 - WARNING - Estação 27500000: Nenhum dado válido de cota encontrado após limpeza.
 2026-02-09 20:54:20 - WARNING - Estação 27500000: Nenhum dado válido de cota encontrado após limpeza.
 2026-02-09 21:50:57 - WARNING - Estação 27500000: Nenhum dado válido de cota encontrado após limpeza.
+2026-02-09 22:50:03 - WARNING - Estação 27500000: Nenhum dado válido de cota encontrado após limpeza.
