@@ -2179,3 +2179,5 @@
 2026-02-27 06:00:19 - ERROR - Estação 29200000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: Opening and ending tag mismatch: hr line 5 and body, line 6, column 8 (<string>, line 6)
 2026-02-27 07:08:52 - ERROR - Estação 27500000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: xpath does not return any nodes or attributes. Be sure to specify in `xpath` the parent nodes of children and attributes to parse. If document uses namespaces denoted with xmlns, be sure to define namespaces and use them in xpath.
 2026-02-27 07:09:03 - WARNING - Estação 29200000: Nenhum dado válido de cota encontrado após limpeza.
+2026-02-27 08:53:53 - ERROR - Estação 27500000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: xpath does not return any nodes or attributes. Be sure to specify in `xpath` the parent nodes of children and attributes to parse. If document uses namespaces denoted with xmlns, be sure to define namespaces and use them in xpath.
+2026-02-27 08:54:03 - WARNING - Estação 29200000: Nenhum dado válido de cota encontrado após limpeza.
