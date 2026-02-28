@@ -2277,3 +2277,5 @@
 2026-02-28 15:33:05 - WARNING - Estação 29200000: Nenhum dado válido de cota encontrado após limpeza.
 2026-02-28 16:37:15 - ERROR - Estação 27500000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: xpath does not return any nodes or attributes. Be sure to specify in `xpath` the parent nodes of children and attributes to parse. If document uses namespaces denoted with xmlns, be sure to define namespaces and use them in xpath.
 2026-02-28 16:37:27 - WARNING - Estação 29200000: Nenhum dado válido de cota encontrado após limpeza.
+2026-02-28 17:28:36 - ERROR - Estação 27500000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: xpath does not return any nodes or attributes. Be sure to specify in `xpath` the parent nodes of children and attributes to parse. If document uses namespaces denoted with xmlns, be sure to define namespaces and use them in xpath.
+2026-02-28 17:28:47 - WARNING - Estação 29200000: Nenhum dado válido de cota encontrado após limpeza.
