@@ -5564,3 +5564,25 @@
 2026-07-02 04:14:35 - ERROR - Estação 29050000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: HTTPSConnectionPool(host='telemetriaws1.ana.gov.br', port=443): Max retries exceeded with url: /ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=29050000&dataInicio=25-06-2026&dataFim=03-07-2026 (Caused by NewConnectionError("HTTPSConnection(host='telemetriaws1.ana.gov.br', port=443): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
 2026-07-02 04:14:38 - ERROR - Estação 29200000: Erro ao consultar inventário da ANA. Detalhe: HTTPSConnectionPool(host='telemetriaws1.ana.gov.br', port=443): Max retries exceeded with url: /ServiceANA.asmx/HidroInventario?codEstDE=29200000&codEstATE=29200000&tpEst=&nmEst=&nmRio=&codSubBacia=&codBacia=&nmMunicipio=&nmEstado=&sgResp=&sgOper=&telemetrica= (Caused by NewConnectionError("HTTPSConnection(host='telemetriaws1.ana.gov.br', port=443): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
 2026-07-02 04:14:41 - ERROR - Estação 29200000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: HTTPSConnectionPool(host='telemetriaws1.ana.gov.br', port=443): Max retries exceeded with url: /ServiceANA.asmx/DadosHidrometeorologicos?codEstacao=29200000&dataInicio=25-06-2026&dataFim=03-07-2026 (Caused by NewConnectionError("HTTPSConnection(host='telemetriaws1.ana.gov.br', port=443): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+2026-07-02 08:17:33 - ERROR - Estação 24700000: Erro ao consultar inventário da ANA. Detalhe: Start tag expected, '<' not found, line 1, column 1 (<string>, line 1)
+2026-07-02 08:17:35 - ERROR - Estação 24700000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: name 'nome' is not defined
+2026-07-02 08:17:36 - ERROR - Estação 24850000: Erro ao consultar inventário da ANA. Detalhe: Start tag expected, '<' not found, line 1, column 1 (<string>, line 1)
+2026-07-02 08:17:37 - ERROR - Estação 24850000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: name 'nome' is not defined
+2026-07-02 08:17:37 - ERROR - Estação 25200000: Erro ao consultar inventário da ANA. Detalhe: Start tag expected, '<' not found, line 1, column 1 (<string>, line 1)
+2026-07-02 08:17:38 - ERROR - Estação 25200000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: name 'nome' is not defined
+2026-07-02 08:17:39 - ERROR - Estação 25700000: Erro ao consultar inventário da ANA. Detalhe: Start tag expected, '<' not found, line 1, column 1 (<string>, line 1)
+2026-07-02 08:17:40 - ERROR - Estação 25700000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: name 'nome' is not defined
+2026-07-02 08:17:41 - ERROR - Estação 26350000: Erro ao consultar inventário da ANA. Detalhe: Start tag expected, '<' not found, line 1, column 1 (<string>, line 1)
+2026-07-02 08:17:42 - ERROR - Estação 26350000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: name 'nome' is not defined
+2026-07-02 08:17:43 - ERROR - Estação 27320000: Erro ao consultar inventário da ANA. Detalhe: Start tag expected, '<' not found, line 1, column 1 (<string>, line 1)
+2026-07-02 08:17:44 - ERROR - Estação 27320000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: name 'nome' is not defined
+2026-07-02 08:17:45 - ERROR - Estação 27500000: Erro ao consultar inventário da ANA. Detalhe: Start tag expected, '<' not found, line 1, column 1 (<string>, line 1)
+2026-07-02 08:17:46 - ERROR - Estação 27500000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: name 'nome' is not defined
+2026-07-02 08:17:46 - ERROR - Estação 28300000: Erro ao consultar inventário da ANA. Detalhe: Start tag expected, '<' not found, line 1, column 1 (<string>, line 1)
+2026-07-02 08:17:48 - ERROR - Estação 28300000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: name 'nome' is not defined
+2026-07-02 08:17:48 - ERROR - Estação 23700000: Erro ao consultar inventário da ANA. Detalhe: Start tag expected, '<' not found, line 1, column 1 (<string>, line 1)
+2026-07-02 08:17:49 - ERROR - Estação 23700000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: name 'nome' is not defined
+2026-07-02 08:18:00 - ERROR - Estação 29050000: Erro ao consultar inventário da ANA. Detalhe: Start tag expected, '<' not found, line 1, column 1 (<string>, line 1)
+2026-07-02 08:18:01 - ERROR - Estação 29050000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: name 'nome' is not defined
+2026-07-02 08:18:02 - ERROR - Estação 29200000: Erro ao consultar inventário da ANA. Detalhe: Start tag expected, '<' not found, line 1, column 1 (<string>, line 1)
+2026-07-02 08:18:03 - ERROR - Estação 29200000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: name 'nome' is not defined
