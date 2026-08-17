@@ -7024,3 +7024,4 @@
 2026-08-17 10:42:17 - ERROR - Estação 24850000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: HTTPSConnectionPool(host='telemetriaws1.ana.gov.br', port=443): Read timed out. (read timeout=60)
 2026-08-17 10:42:48 - ERROR - Estação 25200000: Erro ao consultar inventário da ANA. Detalhe: HTTPSConnectionPool(host='telemetriaws1.ana.gov.br', port=443): Read timed out. (read timeout=30)
 2026-08-17 10:42:50 - ERROR - Estação 25200000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: name 'nome' is not defined
+2026-08-17 18:51:08 - ERROR - Estação 27320000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: Start tag expected, '<' not found, line 1, column 1 (<string>, line 1)
