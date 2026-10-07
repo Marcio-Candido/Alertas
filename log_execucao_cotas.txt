@@ -7571,3 +7571,8 @@
 2026-10-06 22:40:08 - ERROR - Estação 23700000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: Start tag expected, '<' not found, line 1, column 1 (<string>, line 1)
 2026-10-06 22:40:41 - ERROR - Estação 29050000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: Start tag expected, '<' not found, line 1, column 1 (<string>, line 1)
 2026-10-06 22:41:14 - ERROR - Estação 29200000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: Start tag expected, '<' not found, line 1, column 1 (<string>, line 1)
+2026-10-07 02:14:23 - ERROR - Estação 24700000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: Start tag expected, '<' not found, line 1, column 1 (<string>, line 1)
+2026-10-07 02:14:54 - ERROR - Estação 24850000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: Start tag expected, '<' not found, line 1, column 1 (<string>, line 1)
+2026-10-07 02:15:26 - ERROR - Estação 25200000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: Start tag expected, '<' not found, line 1, column 1 (<string>, line 1)
+2026-10-07 02:16:04 - ERROR - Estação 25700000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: Start tag expected, '<' not found, line 1, column 1 (<string>, line 1)
+2026-10-07 02:16:50 - ERROR - Estação 26350000: ERRO CRÍTICO no processamento, plotagem ou consulta de dados. Detalhe: Start tag expected, '<' not found, line 1, column 1 (<string>, line 1)
